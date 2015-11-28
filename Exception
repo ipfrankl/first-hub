@@ -1,0 +1,7 @@
+class UsingException
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Exceptions is about trying and catching");
+  }
+}
